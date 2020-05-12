@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\C-프로그래밍\연습_실습_과제\과제\과제코드\HW2\HW2\main.c(96,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\C-프로그래밍\연습_실습_과제\과제\과제코드\HW2\HW2\main.c(108,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW2.vcxproj -> C:\Users\SwKim\Desktop\ing\대학\2\1학기\C-프로그래밍\연습_실습_과제\과제\과제코드\HW2\Debug\HW2.exe
